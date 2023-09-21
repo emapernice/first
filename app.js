@@ -7,4 +7,5 @@ function saldosMecesGanancia(unPeriodo) {
         }     
     }
     return saldos;
+    console.log();
 }

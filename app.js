@@ -7,5 +7,5 @@ function saldosMecesGanancia(unPeriodo) {
         }     
     }
     return saldos;
-    console.log();
 }
+console.log("Hola Mundo");
